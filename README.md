@@ -204,6 +204,9 @@ conservation = np.clip(np.matmul(sequence_embedding, coef) + intercept, 0, 1)
 Millard Lab: https://millardlab.org  
 UniProt: https://www.uniprot.org/
 
+The Bacteria-Bacteria interactions datasets is download from
+STRING: https://cn.string-db.org
+
     @Article{
       Title   = {MEMHI: A Deep learning Framework for Predicting Microbial Interactions with Structural and Semantic Insights},
       Author  = {Jie Pan, Yuechao Li, Yinuo Zhao, Min Wei, Aidi Ding, Wan Lei, Weiping Ding, Qinhua Huang, Zhuhong You, Shiwei Wang1, and Yanmei Sun},
