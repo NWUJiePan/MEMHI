@@ -1,5 +1,6 @@
 # MEMHI
 This is a public code for predicting phage-bacteria and bacteria-bacteria interactions.
+![](https://github.com/NWUJiePan/MEMHI/blob/master/Figure%201.tif)
 # Enverioment
 
 python>=3.7.0
