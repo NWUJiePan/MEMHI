@@ -1,4 +1,4 @@
-# MEMHI
+# MEMHI: A Deep learning Framework for Predicting Microbial Interactions with Structural and Semantic Insights
 This is a public code for predicting phage-bacteria and bacteria-bacteria interactions.
 ![](https://github.com/NWUJiePan/MEMHI/blob/master/MEMHI.jpg)
 # Enverioment
@@ -205,7 +205,7 @@ Millard Lab: https://millardlab.org
 UniProt: https://www.uniprot.org/
 
     @Article{
-      Title   = {An Integrated Framework for Microbial Interactions Prediction Using Heterogeneous Molecular Network},
+      Title   = {MEMHI: A Deep learning Framework for Predicting Microbial Interactions with Structural and Semantic Insights},
       Author  = {Jie Pan, Yuechao Li, Yinuo Zhao, Min Wei, Aidi Ding, Wan Lei, Weiping Ding, Qinhua Huang, Zhuhong You, Shiwei Wang1, and Yanmei Sun},
       Journal = {*****},
       Volume  = {*****},
