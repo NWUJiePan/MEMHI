@@ -205,8 +205,8 @@ Millard Lab: https://millardlab.org
 UniProt: https://www.uniprot.org/
 
     @Article{
-      Title   = {GE-PHI：A Machine Learning Model for Phage-Host Interaction Prediction Combining Hyperbolic Poincaré Graph Embeddings with a Large-Scale Protein Language Technique},
-      Author  = {Jie Pan, Rui Wang, Zhuhong You, Qinghua Huang, Jie Feng, Yuechao Li, Yanmei Sun， and Shiwei Wang1},
+      Title   = {An Integrated Framework for Microbial Interactions Prediction Using Heterogeneous Molecular Network},
+      Author  = {Jie Pan, Yuechao Li, Yinuo Zhao, Min Wei, Aidi Ding, Wan Lei, Weiping Ding, Qinhua Huang, Zhuhong You, Shiwei Wang1, and Yanmei Sun},
       Journal = {*****},
       Volume  = {*****},
       Number  = {*****},
