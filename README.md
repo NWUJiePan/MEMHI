@@ -210,7 +210,7 @@ STRING: https://cn.string-db.org
 
     @Article{
       Title   = {MEMHI: A Deep learning Framework for Predicting Microbial Interactions with Structural and Semantic Insights},
-      Author  = {Jie Pan, Yuechao Li, Yinuo Zhao, Min Wei, Aidi Ding, Wan Lei, Weiping Ding, Qinhua Huang, Zhuhong You, Shiwei Wang1, and Yanmei Sun},
+      Author  = {Jie Pan, Siyun Cao, Zinan Shi, Yuechao Li, Weiping Ding, Qinhua Huang, Zhuhong You, Shiwei Wang, and Yanmei Sun},
       Journal = {*****},
       Volume  = {*****},
       Number  = {*****},
